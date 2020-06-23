@@ -67,8 +67,8 @@ public class Main {
 
     public static void sumArrayValues(Integer[] array) {
         int sum = 0;
-        for (int tim1 : array) {
-            sum = sum + tim1;
+        for (int temp : array) {
+            sum = sum + temp;
         }
         System.out.println("\n" + "Array values sum : " + sum);
     }
