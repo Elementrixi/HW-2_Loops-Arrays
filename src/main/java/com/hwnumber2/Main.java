@@ -1,5 +1,4 @@
 package main.java.com.hwnumber2;
-
 import java.util.Arrays;
 import java.util.Collections;
 
