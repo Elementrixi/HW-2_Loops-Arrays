@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
         Integer[] array = getArray();
-        System.out.println("Part 1 : ");
         minMaxValue(array);
         sortAscend(array);
         sortRevers(array);
